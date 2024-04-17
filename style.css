@@ -22,6 +22,7 @@ p {
   font-size: var(--font-size-lg);
   color: var(--blue-light);
   text-align: center;
+  margin: 45px 0;
 }
 
 .post {
@@ -34,6 +35,7 @@ p {
 .blog-post-title {
   color: var(--blue-dark);
   font-size: var(--font-size-md);
+  margin-bottom: 10px;
 }
 
 img {
